@@ -1,3 +1,4 @@
-A=1
-B=1
-C=A+B
+A='Bacon'
+B='Lettuce'
+C='Tomato'
+print(A[0]+B[0]+C[0]+' yum yum')
